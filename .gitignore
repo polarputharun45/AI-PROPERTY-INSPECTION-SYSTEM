@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.h5
+*.keras
+*.pt
