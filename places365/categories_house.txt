@@ -1,0 +1,3 @@
+n000 bedroom
+n001 kitchen
+n002 living_room
